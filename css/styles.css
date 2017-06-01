@@ -1,0 +1,9 @@
+.project-img {
+  width: 100%;
+}
+
+.about-bg {
+  background: url('../img/pic1copy.png');
+  background-size: cover;
+  background-attachment: fixed;
+}

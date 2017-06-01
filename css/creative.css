@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #1ABC9C;
+  background-color: rgba(26, 188, 156,0.6);
 }
 .bg-dark {
   background-color: #222222;
@@ -155,7 +155,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/pic2.jpg');
+  background-image: url('../img/pic2copy.jpeg');
+  background-attachment: fixed;
   text-align: center;
   color: white;
 }
